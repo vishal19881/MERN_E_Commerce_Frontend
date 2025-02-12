@@ -1,4 +1,4 @@
-# React + Vite (Backe.nd code are in another repository)
+# React + Vite (Backend code are in another repository)
 [https://github.com/vishal19881/MERN_E_Commerce_Backend](https://github.com/vishal19881/MERN_E_Commerce_Backend.)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
